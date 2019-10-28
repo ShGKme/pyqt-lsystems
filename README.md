@@ -2,7 +2,7 @@
 
 Пример простого приложения на PyQt для рисования L-систем.
 
-![./screenshot.png](Screenshot)
+![Screenshot](./screenshot.png)
 
 ## Начало работы
 
